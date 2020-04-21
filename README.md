@@ -10,15 +10,15 @@ Our second dataset was retrieved from data.world.com. It displays 4 sociological
 
 ## Workflow:
 
-A relational database called 'ETL_db’ was created in PostgresSQL pgAdmin 4 and four tables were created, and the column names and value types were specified. The ‘state’ column was set as the primary key in each table because it is present in all tables.
+A relational database called 'ETL_db’ was created in PostgresSQL pgAdmin 4. Four tables were created and the column names and value types were specified. The ‘state’ column was set as the primary key in each table because it is present in all tables.
 
 ## Transformation:
 The data was cleaned and merged in preparation to export them to the tables made in pgAdmin 4. 
 Our finalized DataFrames display:
-- Percentage of educational attainment.
-- Minimum wage values during 2009. 
-- Percent peace index in 2010.
-- Minimum wage values during 2009.
+- Percentage of educational attainment during the year 2009.
+- Minimum wage values during the year 2009. 
+- Percent peace index during the year 2010.
+- Minimum wage values during the year 2010.
 
 
 ## Load:
