@@ -24,6 +24,10 @@ Our finalized DataFrames display:
 ## Load:
 A connection called ‘engine’ was created to connect to PostgresSQL pgAdmin 4 to load our DataFrames into the SQL database tables. These tables were joined using SQL queries.
 
+## Hypothesis 
+- Minimum wage and educational attainment were directly proportional during 2009: the higher the minimum wage, the higher the % of educational attainment; the lower the minimum wage, the lower the % of educational attainment.
+- Minimum wage and % peace index were directly proportional in 2010: the higher the minimum wage, the higher the % peace index; the lower the minimum wage, the lower the % peace index.
+
 ## Observations:
 
 Educational attainment and minimum wage were unrelated during the year 2009. The state with the highest minimum wage was Washington (8.55/hour, equivalent to 9.98/hour in 2018). However, this state was not the state with the highest % of education attainment during that same year. Moreover, the state with the lowest minimum wage value was Oklahoma (2.00/hour, equivalent to 2.33/hours in 2018). Similarly, this is not the state with the lowest % of educational attainment.
