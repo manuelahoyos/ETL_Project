@@ -6,12 +6,8 @@ Group Project in which the ETL process was used to analyze and compare populatio
 
 ## Datasets:
 ## Extraction:
-Our first dataset was retrieved from Kaggle.com. It displays the minimum wage "maximum and minimum" for each state in the United States during the years 1968 and 2017. We selected the minimum wage data for the years 2009 and 2010. We selected the metrics 
-
-
-Percetage of educational attainment, which displays the number of of individuals that have earned a bachelor's degree or higher during 2009. Percent peace index which is measured based on homicide, violent crime, policing, incarceration and availability of small arms rates. Data was converted to percentages; the higher the % the "more peaceful" the state
-Our second dataset was retrieved from data.world.com. It displays 4 sociological metrics for all 50 states during different years. the percent peace index in 2010
-
+Our first dataset was retrieved from Kaggle.com. It displays the minimum wage "maximum and minimum" for each state in the United States during the years 1968 and 2017. We selected the minimum wage data for the years 2009 and 2010.
+Our second dataset was retrieved from data.world.com. It displays 4 sociological metrics for all 50 states during different years. We selected the percetage of educational attainment, which displays the number of of individuals that have earned a bachelor's degree or higher during 2009. We also selected the percent peace index during 2010, which is measured based on homicide, violent crime, policing, incarceration and availability of small arms rates. Data was converted to percentages; the higher the % the "more peaceful" the state.
 
 
 ## Workflow:
