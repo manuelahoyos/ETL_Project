@@ -22,8 +22,7 @@ Our finalized DataFrames display:
 
 
 ## Load:
-A connection called ‘engine’ was created to connect to PostgresSQL pgAdmin 4 to load our DataFrames into the SQL database.
-After the DataFrames were uploaded into the pgAdmin 4 tables, joined tables were made. 
+A connection called ‘engine’ was created to connect to PostgresSQL pgAdmin 4 to load our DataFrames into the SQL database tables. These tables were joined using SQL queries.
 
 ## Observations:
 
