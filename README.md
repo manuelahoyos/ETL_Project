@@ -1,7 +1,7 @@
 # ETL Project
 
 ## Overview:
-Group Project in which the ETL process was used to analyze and compare population metrics and minimum wage data for all states during the years 2009 and 2010 using Python, Pandas, Matplolib, SQL and SQLAlchemy.
+Group project in which the ETL process was used to analyze and compare population metrics and minimum wage data for all states during the years 2009 and 2010 using Python, Pandas, Matplolib, SQL and SQLAlchemy.
 
 ## Datasets:
 ## Extraction:
