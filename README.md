@@ -24,6 +24,8 @@ Our finalized DataFrames display:
 ## Load:
 A connection called ‘engine’ was created to connect to PostgresSQL pgAdmin 4 to load our DataFrames into the SQL database tables. These tables were joined using SQL queries.
 
+- Minimum wage and educational attainment percent for every state during the year 2009:
+
 ## Hypothesis 
 - Minimum wage and educational attainment were directly proportional during 2009: the higher the minimum wage, the higher the % of educational attainment; the lower the minimum wage, the lower the % of educational attainment.
 - Minimum wage and % peace index were directly proportional in 2010: the higher the minimum wage, the higher the % peace index; the lower the minimum wage, the lower the % peace index.
